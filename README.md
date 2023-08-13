@@ -11,8 +11,8 @@ Source:  https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data
 ## Technologies
 
 1. Fusion = [IBM Storage Fusion](https://www.ibm.com/products/storage-fusion) SDS V2.5 installed with OpenShift in IBM Cloud VPC
-2. Lakehouse = [IBM watsonx.data](https://www.ibm.com/products/watsonx-data) v1.0
-3. Dashboard = IBM Cognos Analytics Server 11.2
+2. Lakehouse = [watsonx.data](https://www.ibm.com/products/watsonx-data) v1.0
+3. Dashboard = [Cognos Analytics Server](https://www.ibm.com/products/cognos-analytics) V11.2
 
 
 ## Workflow
