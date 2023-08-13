@@ -6,7 +6,7 @@
 Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq) to local drive.
 
 
-## Re-load Dataset to New Storage
+## Re-load Dataset to Object Storage
 
 <img width="1244" alt="image" src="https://github.com/hpdalab/demo101-s4wx-nytaxi/assets/38366661/0d6693f7-4902-4e9e-a77c-b2cb482d4b0c">
 
@@ -19,3 +19,7 @@ file name: 2018_Yellow_Taxi_Trip_Data.csv
 file formate: CSV
 file size: 9.71GB
 ```
+
+#### Note
+1. Depending on the internet connection and speed, the upload can take anywhere from minutes to hours
+2. More detail of the dataset can be access at [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
