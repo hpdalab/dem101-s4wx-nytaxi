@@ -7,7 +7,7 @@
    
 ## Download Dataset Locally
 
-Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq) to local drive. Depending on the internet connection and speed, the upload can take anywhere from minutes to hours
+Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq) to local drive. 
 
 #### A snapshot view of the data
 ![image](https://github.com/hpdalab/dem101-s4wx-nytaxi/assets/38366661/37c534f5-98b4-4fe9-a7e3-57d5309c8ff9)
@@ -17,6 +17,8 @@ Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018
 ## Re-load Dataset to Object Storage
 
 <img width="1244" alt="image" src="https://github.com/hpdalab/demo101-s4wx-nytaxi/assets/38366661/0d6693f7-4902-4e9e-a77c-b2cb482d4b0c">
+
+Depending on the internet connection and speed, the upload can take anywhere from minutes to hours
 
 #### Storage Attributes
 ```
