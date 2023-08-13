@@ -2,13 +2,12 @@
 
 
 ## Reference and Note
-1. Depending on the internet connection and speed, the upload can take anywhere from minutes to hours
-2. More detail of the dataset can be access at [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+1. More detail of the dataset can be access at [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
    
 ## Download Dataset Locally
 
-Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq) to local drive.
+Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq) to local drive. Depending on the internet connection and speed, the upload can take anywhere from minutes to hours
 
 
 ## Re-load Dataset to Object Storage
