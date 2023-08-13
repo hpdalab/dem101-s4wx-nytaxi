@@ -17,7 +17,7 @@ Source:  https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data
 
 ## Workflow
 
-1. Prepare dataset by downloading locally first then reloading to an object storage
-2. Create Lakehouse/Fusion (WXD100@Fusion101) Catalog, Schema and Table connecting to the dataset (CSV) in object storage
+1. Prepare dataset by downloading CSV file locally then uploading to an object storage
+2. Create Lakehouse/Fusion Catalog, Schema and Table connecting to the dataset (CSV) in object storage
 3. Filter and transform the original CSV file into a more efficient Lakehouse table (ORC)
-4. Connect to the Lakehouse/Fusion (WXD100@Fusion101) 
+4. Connect to the Lakehouse/Fusion from Dashboard to create visualization of dataset
