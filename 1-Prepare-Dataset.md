@@ -1,11 +1,11 @@
-# Prepare Dataset
+# dem101.1 Prepare Dataset
 
 
 ## Reference and Note
 1. More detail of the dataset can be access at [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
    
-## Download Dataset Locally
+## dem101.1.1 Download Dataset Locally
 
 Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq) to local drive. 
 
@@ -14,7 +14,7 @@ Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018
 
 
 
-## Re-load Dataset to Object Storage
+## dem101.1.2 Re-load Dataset to Object Storage
 
 Depending on the internet connection and speed, the upload can take anywhere from minutes to hours
 
