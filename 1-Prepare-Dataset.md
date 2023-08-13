@@ -16,9 +16,11 @@ Download dataset from [source](https://data.cityofnewyork.us/Transportation/2018
 
 ## Re-load Dataset to Object Storage
 
+Depending on the internet connection and speed, the upload can take anywhere from minutes to hours
+
 <img width="1244" alt="image" src="https://github.com/hpdalab/demo101-s4wx-nytaxi/assets/38366661/0d6693f7-4902-4e9e-a77c-b2cb482d4b0c">
 
-Depending on the internet connection and speed, the upload can take anywhere from minutes to hours
+
 
 #### Storage Attributes
 ```
