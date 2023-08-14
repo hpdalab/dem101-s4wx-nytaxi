@@ -1,4 +1,4 @@
-# S4WX Demo: Lakehouse-Fusion-Dashboard for New York Yellow Taxi Trip Data Set
+# S4WX Lab: Lakehouse-Fusion-Dashboard for New York Yellow Taxi Trip Data Set
 
 
 ## Dataset
