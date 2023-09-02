@@ -8,7 +8,7 @@ The yellow and green taxi trip records include fields capturing pick-up and drop
 Source:  https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq
 
 
-## Technologies
+## Resources
 
 1. Fusion = [IBM Storage Fusion](https://www.ibm.com/products/storage-fusion) SDS V2.5 installed with OpenShift in IBM Cloud VPC
 2. Lakehouse = [watsonx.data](https://www.ibm.com/products/watsonx-data) v1.0
